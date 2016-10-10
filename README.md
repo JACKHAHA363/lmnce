@@ -1,7 +1,5 @@
 # Language Model with NCE
  
-Modified from https://tensorflow.googlesource.com/tensorflow/+/master/tensorflow/models/embedding/word2vec.py
-
 This is a experimental project aiming to see the training result using different noise selection in NCE.
 
 ## Get Data Ready
