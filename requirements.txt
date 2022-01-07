@@ -3,7 +3,7 @@ PyVCF==0.6.8
 argparse==1.2.1
 beautifulsoup4==4.2.1
 chardet==2.0.1
-cvxopt==1.1.4
+cvxopt==1.2.7
 decorator==3.4.0
 html5lib==0.999
 iotop==0.6
