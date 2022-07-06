@@ -9,7 +9,7 @@ html5lib==0.999
 iotop==0.6
 ipython==1.2.1
 joblib==0.7.1
-lxml==3.3.3
+lxml==4.9.1
 matplotlib==1.3.1
 mercurial==2.8.2
 networkx==1.9.1
